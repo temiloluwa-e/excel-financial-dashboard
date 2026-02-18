@@ -17,5 +17,4 @@ This project presents a financial performance dashboard built in Microsoft Excel
 Developed as part of personal skill-building in accounting, financial analysis, and data reporting.
 
 ## Author
-Temiloluwa Eleyinmi
-BBA Accounting Co-op Student | Accounting
+- Temiloluwa Eleyinmi | BBA Accounting Co-op Student | Accounting
