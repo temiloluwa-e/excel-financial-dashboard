@@ -6,7 +6,7 @@ Created by Temiloluwa Eleyinmi
 This project presents a financial performance dashboard built in Microsoft Excel to track and visualize business activity over a monthly period. The dashboard summarizes key metrics including gross sales, expenses, and net profit, while highlighting trends and operational insights.
 
 ## Tools Used
-- Microsoft Excel: Data organization, visualization, formulas, conditional formatting, dashboard design
+- Microsoft Excel: Data organization, visualization, VLOOKUP/XLOOKUP, basic formulas, conditional formatting, dashboard design
 
 ## Key Features
 - Daily tracking of Gross Sales, Expenses, and Net Profit
